@@ -29,7 +29,7 @@ It supports multiple users, product management, comprehensive warehousing operat
    ```bash
    npm run dev
    ```
-   *The API will be available at http://localhost:5000*
+   *The API will be available at [https://odoo-hackathon-project-omega.vercel.app](https://odoo-hackathon-project-omega.vercel.app)*
 
 ### 2. Setup Frontend
 1. Open a new terminal and navigate to the `frontend` folder:
@@ -44,7 +44,7 @@ It supports multiple users, product management, comprehensive warehousing operat
    ```bash
    npm run dev
    ```
-   *The Application will be available at http://localhost:5173* (or as output in terminal)
+   *The Application will be available at https://odoo-hackathon-project-client.vercel.app* (or as output in terminal)
 
 ## Default User Initialization
 You can sign up directly from the web interface. Choose the "Inventory Manager" role to get full access.
